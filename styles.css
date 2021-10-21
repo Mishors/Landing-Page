@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    gap: 30px;
+    padding:0px 80px 0px 80px;
+    background-color: #1F2937;
+    align-items: center;
+}
+
+#a1{
+    margin-left: auto;
+}
+
+#logo{
+    height: 50px;
+    width: auto;
+}
+
+.header-links{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.header-links,
+a:link {
+    color: #E5E7EB;
+    text-decoration: none;
+  }
+  
+
+  
