@@ -20,11 +20,21 @@
     font-size: 18px;
 }
 
-.header-links,
-a:link {
+
+
+a:link,
+.header-links{
     color: #E5E7EB;
     text-decoration: none;
-  }
+}
+
+
+.header-links:hover {
+    color: #3882F6;
+    text-decoration: none;
+}
+
+
   
 
   
