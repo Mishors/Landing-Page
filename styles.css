@@ -104,6 +104,7 @@ a:link,
 
 .info-p{
     width:170px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .info-img-div{
@@ -113,6 +114,25 @@ a:link,
     width:  180px;     
 }
 
-#testimonial-p1{
-    
+.testimonial{
+    background-color: #E5E7EB;
+    padding:80px 150px 80px 150px;
 }
+
+#testimonial-p1{
+    color:#1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#testimonial-p2{
+    color:#1F2937;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    padding-right: 120px;
+}
+
+
