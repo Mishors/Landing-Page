@@ -20,21 +20,57 @@
     font-size: 18px;
 }
 
-
-
 a:link,
 .header-links{
     color: #E5E7EB;
     text-decoration: none;
 }
 
-
 .header-links:hover {
     color: #3882F6;
     text-decoration: none;
 }
 
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #1F2937;
+}
 
-  
+#hero-heading{
+    font-size: 48px;
+    font-weight: 900;
+    color:#F9FAF8;
+    width: 500px;
+    
+}
 
-  
+#hero-paragraph{
+    width: 500px;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+#hero-img{
+    /*Hardcoded height to fill the image space if the image is not found */
+    height: 323.113582208323px;
+    width: 600px;
+    background-color: grey;
+    text-align: center;
+    line-height: 323.113582208323px;
+}
+
+#hero-btn{
+    background-color:#3882F6;
+    color:#F9FAF8;
+    padding-right:30px;
+    padding-left: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+    font-size: 18px;
+    border:0;
+}
