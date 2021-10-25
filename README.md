@@ -15,7 +15,9 @@ This project follows the specification in The Odin Project Front-end Crash Cours
 
 ## Viewing the Landing Page
 
-You can visit the landing page using the following link [https://mishors.github.io/Landing-Page/](https://mishors.github.io/Landing-Page/) to check the results yourself! 
+You can visit the landing page using the following link [https://mishors.github.io/Landing-Page/](https://mishors.github.io/Landing-Page/) to check the results yourself it will be like the following!
+
+![Result website](https://github.com/Mishors/Landing-Page/blob/main/Images/README%20Images/result.png?raw=true)
 
 
 
