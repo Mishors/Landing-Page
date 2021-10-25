@@ -132,6 +132,21 @@ a:link,
     padding-right: 120px;
 }
 
+.call-to-action-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0px 80px 0px;
+}
+
+.call-to-action {
+    border-radius: 20px;
+    border: 5px solid #3882F6;
+    background-color: #3882F6;
+    height: 180px;
+    width: 900px;
+}
+
 .footer {
     display: flex;
     padding: 0px 80px 0px 80px;
